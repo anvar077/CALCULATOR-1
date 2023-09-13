@@ -1,0 +1,48 @@
+
+#main{
+    background-color: rgb(200, 193, 193);
+    height:  500px;
+    width: 400px;
+    margin: 100px 500px ;
+
+}
+#screen{
+    width: 300px;
+    height: 40px;
+    margin: 20px 45px;
+    font-size: 30px;
+    background-color: rgb(242, 247, 248);
+}
+.btn{
+    width: 65px;
+    height: 65px;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 50px;
+    background-color: white;
+}
+.btn:hover{
+    background-color: rgb(230, 188, 188);
+}
+.clr{
+    width: 130px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 15px;
+    background-color: white;
+}
+.clr:hover{
+    background-color: rgb(230, 188, 188);
+}
+.Back{
+    width: 130px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 15px;
+    background-color: white;
+}
+.Back:hover{
+    background-color: rgb(230, 188, 188);
+}
